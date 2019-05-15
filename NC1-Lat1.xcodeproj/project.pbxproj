@@ -15,6 +15,7 @@
 		17456F4B228BA88700174844 /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17456F4A228BA88700174844 /* LearnerModel.swift */; };
 		17456F4D228BB4F600174844 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17456F4C228BB4F600174844 /* AnimalModel.swift */; };
 		17456F4F228BC61800174844 /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17456F4E228BC61800174844 /* FacilitatorModel.swift */; };
+		17456F51228BCA6D00174844 /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17456F50228BCA6D00174844 /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		17456F4A228BA88700174844 /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
 		17456F4C228BB4F600174844 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
 		17456F4E228BC61800174844 /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		17456F50228BCA6D00174844 /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				17456F38228B9D2B00174844 /* AppDelegate.swift */,
 				17456F3A228B9D2B00174844 /* ViewController.swift */,
+				17456F50228BCA6D00174844 /* MenteeModel.swift */,
 				17456F4A228BA88700174844 /* LearnerModel.swift */,
 				17456F4C228BB4F600174844 /* AnimalModel.swift */,
 				17456F4E228BC61800174844 /* FacilitatorModel.swift */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17456F3B228B9D2B00174844 /* ViewController.swift in Sources */,
+				17456F51228BCA6D00174844 /* MenteeModel.swift in Sources */,
 				17456F4B228BA88700174844 /* LearnerModel.swift in Sources */,
 				17456F39228B9D2B00174844 /* AppDelegate.swift in Sources */,
 				17456F4F228BC61800174844 /* FacilitatorModel.swift in Sources */,
